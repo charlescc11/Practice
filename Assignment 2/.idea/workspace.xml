@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b589791-34de-49d5-89a6-f5c4f1bb0639" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hCFygZWllirPkLfamTee5iKtad" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GithubRepository/GameCentre" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\trist\Desktop\Assignments\Assignment 2\fall2018\csc2017\slidingtiles\fall2018\csc2017\slidingtiles\fall2018\csc2017\slidingtiles" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b589791-34de-49d5-89a6-f5c4f1bb0639" name="Default Changelist" comment="" />
+      <created>1599507422738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599507422738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="100" key="SettingsEditor" timestamp="1599507436795">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="480" y="100" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1599507436795" />
+    <state x="681" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1599507425492">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="681" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599507425492" />
+    <state x="699" y="419" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599507474276">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="699" y="419" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1050@0.0.1920.1050" timestamp="1599507474276" />
+  </component>
+</project>
